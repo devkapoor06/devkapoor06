@@ -12,8 +12,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devkapoor06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![snake gif](https://github.com/devkapoor06/devkapoor06/blob/output/github-snake-dark.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=devkapoor06&icon=0&color=0)](https://visitcount.itsvg.in)
